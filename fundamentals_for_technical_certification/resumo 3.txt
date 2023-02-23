@@ -1,0 +1,37 @@
+Melhores praticas gestão e governança de ti
+
+como deve ser realizada a manutenção dos serviços de produção
+
+quando o assunto for desenvolvimento da empresa do zero
+plano de negocio
+estruturação do negocio em produção
+seguir mapa de desenvolvimento do produto
+utilização de alguma ferramenta para verificar a gestão algum CRM que possa manter a qualidade do produto para o cliente
+
+O assunto abordado tem como objetivo se caso for iniciar um projeto do zero, precisaremos do mapa do projeto
+
+entrega de serviço com qualidade
+utilização dos framework itil | cobit
+entrega de serviço estavel para o cliente
+garantida de serviço
+ciclo de serviço 
+
+Qual o papel do gerente de conhecimento dentro do processo de melhorias?
+
+papel de integrar
+pessoas
+processos
+parceiros
+produtos
+(desenvolvedores que faz o uso de alguma aplicação | o papel do gerente é enriquecer mais o conhecimento dos funcionarios, aplicando treinamentos, consultoria para a determinada aplicação | analise do produto que estamos utilizando)
+o gerente de conhecimento precisa ter todo o nohall do projeto, desde o inicio ate o final
+O objetivo é fazer com que a entrega do serviço seja devidamente entregue na outra ponta do cliente
+
+Quais passos devem ser adotados pelo profissional que intenta ingressar no mercado da area de governança
+os passos que o profissional precisa adotar
+manter os estudos atualizado
+experiencia na pratica, iniciando pelo setor de suporte
+compreder o processo do suporte
+como funciona cada etapa
+compreender o contexto de cada area
+assim o profissional tera mais conhecimento para entrar na area de governança
