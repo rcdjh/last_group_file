@@ -1,0 +1,18 @@
+IT GOVERNANCE
+
+During our study in Unit 1, we saw the importance of IT Governance in the organizational actions of a company, involving business and processes. Now let's take you to a case study of the implementation of IT Governance in the electric energy sector. It is a company located in the Northeast region of the country, CEMAR, which had its operation started in Maranhão in 1958. Over the years and unhealthy practices on the part of the state government, the company found itself in a very difficult situation. in terms of credibility and economically speaking. It had a deficit of more than 53 million reais, which forced the government to take the decision to privatize the state-owned company. The bidding and auction took place in 2000, and in two years the winning company ended up giving up the command, understanding that the debt in question was insolvable. It was then that a new privatization took place and the winner
+ was a company in the equity and venture sector, which saw this area of ​​activity as a source of future business and profit generation. Through specific actions, the managers started a turnaround process for the company, renegotiating its debts, re-discussing contracts with suppliers and developing a new administrative/financial policy, combined with a new IT structure. Partnerships were established with the IT private sector, with the use of intelligent solutions, IT Governance and the use of good practices that, in a short time, rebalanced the company's finances and brought new air to the activity sector. The debt in just over 9 years turned into a surplus, which was demonstrated by its assets and its credibility in the market. Aneel classified the company as one of the concessionaires with the best operational efficiency in the energy distribution segment and, thus, resuming its reliability in the market. The great watershed was the transfer of control of the company to managers who were highly capable of managing an adverse situation and, with the use of technological partnerships, promoting a system of excellence in service and management. The new infrastructure contributed to achieving more speed and efficiency in calculating the main quality meters of services provided and availability of the energy company. DEC (Equivalent Interruption Duration per Consumer Unit) and FEC (Equivalent Interruption Frequency per Consumer Unit). In a period of 9 years (2004 to 2013), CEMAR's DEC and FEC indexes increased from 63.4 hours and 39.3 times, respectively, to 18.9 hours and 10.9 times.
+
+
+
+
+Taking into account the case study above and the content of Unit 01, make a brief reflection on the importance of IT Governance in the business scenario. Analyze the steps that were taken and say what you would do differently to make these results even more expressive. Also make a relationship between the knowledge and skills that an IT Manager needs to have, or develop, to obtain greater possibilities of success in terms of professional career and results to be achieved within your company. At the end, make your work available in the section's forum.
+
+
+References
+CASE STUDY CEMAR Companhia Energética do Maranhão. UNIONIT . Available at: https://www.uit.com.br/wp-content/uploads/2017/10/20602_estudodecaso3.pdf . Accessed on: 22 Nov. 2019.
+
+IZILDA, A. Fundamentals for technical certification. How important are technical certifications to you? Ead Anima, 2018.
+
+
+

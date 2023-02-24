@@ -1,0 +1,26 @@
+PROCESSES RELATED TO THE SERVICE PROJECT CYCLE
+
+
+Throughout our study, in Unit 03, it was possible to understand how the service strategy objectives are projected/designed, until reaching the implementation stage, using for this the best practices of IT management and governance (Information Technology), that support you to achieve optimal business results.
+
+Determining exactly the steps that must be taken for the services to function correctly is essential so that we have full knowledge of the possible errors that may occur and present means to circumvent these errors, as well as correct them.
+
+
+In this view, imagine that you have a situation to be resolved, which is common in the daily lives of IT professionals.
+
+
+An XYZ e-mail server from the AAA company is experiencing service availability problems, which from time to time cause a lot of inconvenience to the company, becoming unavailable at times.
+
+When this happens, IT professionals (analysts - primary and secondary) follow a routine to work around/correct the failures presented in each step, described below:
+
+The. At a hierarchical level, analysts considered as first-level analysts carry out the process of restarting the mail server, so that the service returns to operation.
+B. As this is a problem with more than one event, it is necessary to research its cause, so the second-level analyst is responsible for discovering the reason that generated this failure. On your technical inspection, a problem is observed.
+w. The problem presented, which generates the stoppage of the service, is in the application that monitors the users' access to the Internet. This application is installed on that same server, which initiates a process of updating its information bases on the browsed sites. This process is justified by generating a list of “suspicious” sites to generate data and keep them updated on the application manufacturer's server. Such a process generates high consumption of computational resources, about 95% of the processing, therefore, it causes slowness in the server processes.
+d. Now a reconfiguration of the application is carried out and these changes are again recorded in a database in a complete way, guaranteeing the stability of the system and a greater availability of resources by the server.
+It is. An incident happens right after application reconfiguration. A macro virus reached a workstation, but very efficiently the security system - antivirus - detected it and immediately moved it to quarantine in order to prevent the virus from spreading within the network, and thus reaching other workstations .
+
+
+Let's practice
+As per the steps shown earlier: how can you classify each event according to the analysis and solutions presented? For each step: state the action to be presented and your justification for using it. At the end, don't forget to make your analysis available in the section's forum.
+
+CESTARI FILHO, F. Itil v3 Fundamentals . Rio de Janeiro: RNP/ESR, 2011. Available at: https://goo.gl/PHxRRR . Accessed on: 29 Nov. 2019.
