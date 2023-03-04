@@ -35,3 +35,10 @@ compreder o processo do suporte
 como funciona cada etapa
 compreender o contexto de cada area
 assim o profissional tera mais conhecimento para entrar na area de governança
+
+Antes de implementar  os serviços de TI (Tecnologia da Informação) e os demais setores da empresa, é preciso planejar as habilidades e os recursos necessários para colocá-los em produção, com o intuito de garantir o atendimento a todos os requisitos planejados e desenhados.
+Para que isso ocorra, é necessário seguir o ciclo de Transição de Serviço, que tem a missão de planejar o projeto de implantação dos serviços, que serão suportados posteriormente no ciclo de Operação de Serviço.
+Levando em consideração a análise acima, que pode ser uma problemática caso tais requisitos não sejam atendidos, responda: quais cuidados se deve ter na elaboração e na aplicação do ciclo de vida, necessários para o atendimento dos serviços solicitados?
+
+
+
